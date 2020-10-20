@@ -1,6 +1,6 @@
 # .NET interactive-notebooks
 
-Forked from [colombod/interactive-notebooks](https://github.com/colombod/interactive-notebooks) 
+Forked from [colombod/interactive-notebooks](https://github.com/colombod/interactive-notebooks) after [@colombod webinar](https://youtu.be/g67_d5pY_Uk) ([slides](https://www.fondazionecrui.it/wp-content/uploads/2020/10/NET-Interactive-piattaforma-opensource-per-insegnare-computer-science-e-data-science.pdf))
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Unipisa/dotnet-interactive-notebooks/main?urlpath=lab/master)
 
